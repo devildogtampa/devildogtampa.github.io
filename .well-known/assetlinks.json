@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mealon.app",
+    "sha256_cert_fingerprints": [
+      "2A:39:E7:1A:ED:C8:10:AB:60:73:BF:5D:AC:65:23:15:E8:7D:AD:23:6B:CB:47:F0:3A:B3:05:0C:42:BD:73:60",
+      "DE:ED:99:62:7B:08:87:EC:66:FE:08:E3:46:26:DC:15:8B:AF:23:19:8D:EF:6D:D3:A9:0E:5E:DE:6D:64:E5:A6"
+    ]
+  }
+}]
